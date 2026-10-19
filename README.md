@@ -90,24 +90,26 @@
   <i>Only add additional languages or tools here after confirming they're represented in your repositories.</i>
 </p>
 
-## 📊 GitHub Stats
+
 
 
 ## ⚡ Beyond the Code
 
+
 <div align="center">
 
-### `Building` · `Experimenting` · `Learning`
+### 💻 Building Projects · 🧠 Exploring AI · 🚀 Learning Every Day
 
-| 💻 Development | 🧠 AI & Python |
-|---|---|
-| Turning ideas into practical projects | Exploring data and intelligent systems |
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
 
-| 📱 App Projects | ⚡ Problem Solving |
-|---|---|
-| Building with Android Studio | Learning by building and testing |
+<br/>
+
+**My goal:** Keep building, keep experimenting, and keep improving.
 
 </div>
+
 
 
 ## 🐍 Contribution Snake
