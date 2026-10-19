@@ -92,16 +92,23 @@
 
 ## 📊 GitHub Stats
 
+
+## ⚡ Beyond the Code
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayussh-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayussh-dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Most used languages" />
+### `Building` · `Experimenting` · `Learning`
 
-<br />
+| 💻 Development | 🧠 AI & Python |
+|---|---|
+| Turning ideas into practical projects | Exploring data and intelligent systems |
 
-<img src="https://streak-stats.demolab.com?user=ayussh-dev&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
+| 📱 App Projects | ⚡ Problem Solving |
+|---|---|
+| Building with Android Studio | Learning by building and testing |
 
 </div>
+
 
 ## 🐍 Contribution Snake
 
